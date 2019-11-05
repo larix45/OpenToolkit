@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538496612 source:e:\wszystko\cpp\liczby\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1539097460 source:e:\wszystko\codeblocks\cpp\liczby\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

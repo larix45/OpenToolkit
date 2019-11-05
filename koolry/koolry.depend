@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528213113 source:c:\users\user\desktop\cpp\koolry\main.cpp
+	<iostream>
+	<windows.h>
+
+1540911148 source:e:\documents\documents\cpp\koolry\main.cpp
+	<iostream>
+	<windows.h>
+

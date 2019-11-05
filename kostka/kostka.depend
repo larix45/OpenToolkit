@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572364806 source:f:\documents\cpp\kostka\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<windows.h>
+
