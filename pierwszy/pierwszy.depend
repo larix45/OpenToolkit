@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1572248119 source:c:\users\student\desktop\pierwszy\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+
+1572640830 source:f:\documents\cpp\pierwszy\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<math.h>
+
+1572852948 source:e:\documents\cpp\pierwszy\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1527614297 source:c:\users\user\desktop\cpp\spam\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<cstdlib>
+	<conio.h>
+

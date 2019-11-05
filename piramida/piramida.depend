@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1528824365 source:c:\users\user\desktop\cpp\piramida\main.cpp
+	<iostream>
+	<windows.h>
+

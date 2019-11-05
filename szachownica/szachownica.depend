@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539106092 source:e:\wszystko\cpp\szachownica\main.cpp
+	<iostream>
+	<cstdlib>
+
+1539110232 source:f:\documents\cpp\szachownica\main.cpp
+	<iostream>
+	<cstdlib>
+

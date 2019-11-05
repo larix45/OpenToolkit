@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556639198 source:e:\documents\cpp\snake\main.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+

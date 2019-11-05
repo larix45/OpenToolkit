@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1560878856 source:e:\documents\cpp\waz\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<ctime>
+	<fstream>
+
+1559675771 source:f:\documents\cpp\waz\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<vector>
+	<ctime>
+

@@ -1,0 +1,5 @@
+przy grze przez lan gracz true wysy³a dane
+
+przy grze przez lan gracz HOST jest true
+
+X
