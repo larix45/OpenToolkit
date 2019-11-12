@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="napis" />
+		<Option title="Zajecia 2" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -25,6 +25,11 @@
 			<code_completion />
 			<envvars />
 			<debugger />
+			<wxsmith version="1">
+				<resources>
+					<wxDialog wxs="wxsmith/NewDialog.wxs" src="NewDialog.cpp" hdr="NewDialog.h" fwddecl="0" i18n="1" name="NewDialog" language="CPP" />
+				</resources>
+			</wxsmith>
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
