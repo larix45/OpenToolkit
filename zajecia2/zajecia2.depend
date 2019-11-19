@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574184595 source:f:\documents\cpp\zajecia2\main.cpp
+	<iostream>
+	<vector>
+	<windows.h>
+
