@@ -498,19 +498,8 @@ int main()
         std::cout << "NIE";
     //std::cout <<  "ZNAK : " << b1.playboard[7][3].icon;
     b1.defaultPositionOfFigures();
-    while(b1.beat_figures.pop_back() != WHITE_KING || b1.beat_figures.pop_back() != BLACK_KING)
-    {
-        DisplayBoard(b1);
-        safdfsa//// TU INTERFEJS  + OBS£UGA U¯YTKOWNIKÓW
-    }
-
+    while(b1.beat_figures.pop_back() != WHITE_KING || )
+    DisplayBoard(b1);
     gotoXY(20,20);
     return 0;
 }
-/**
-TODO
-AI enemy
-interface
-error control
-testing
-**/
